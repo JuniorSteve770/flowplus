@@ -1,23 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8423fac762f72868370f9354dc50b7b9",
+    "revision": "19047d45a5b49bc8c826bf74b925cc66",
     "url": "/flowplus/index.html"
   },
   {
-    "revision": "56323c90fc53af23ff0a",
+    "revision": "5076960b2cbb7fcee65c",
     "url": "/flowplus/static/css/2.60a6b8e0.chunk.css"
   },
   {
-    "revision": "adecdf6816c97bc0acef",
-    "url": "/flowplus/static/css/main.34de6062.chunk.css"
+    "revision": "5076960b2cbb7fcee65c",
+    "url": "/flowplus/static/js/2.b0bc63ca.chunk.js"
   },
   {
-    "revision": "56323c90fc53af23ff0a",
-    "url": "/flowplus/static/js/2.fda3580b.chunk.js"
-  },
-  {
-    "revision": "adecdf6816c97bc0acef",
-    "url": "/flowplus/static/js/main.f15b2595.chunk.js"
+    "revision": "4663071f1c183b256430",
+    "url": "/flowplus/static/js/main.88afe6b9.chunk.js"
   },
   {
     "revision": "7e6dfff353086722cf12",
@@ -26,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67dacaa6d9de4371a8c02cb2e4adea0c",
     "url": "/flowplus/static/media/1.67dacaa6.png"
+  },
+  {
+    "revision": "ea240b686a8f8606bda0a9480d23643b",
+    "url": "/flowplus/static/media/1.ea240b68.png"
   },
   {
     "revision": "8a3540d58955cc6f406268b20043a25f",
@@ -60,8 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flowplus/static/media/7.0893ea30.png"
   },
   {
+    "revision": "511c0fb6aa86c3ce9cb80faaebe61df2",
+    "url": "/flowplus/static/media/7.511c0fb6.png"
+  },
+  {
     "revision": "3ae5e37d6f31dd3df3752a17e59c58ed",
     "url": "/flowplus/static/media/8.3ae5e37d.png"
+  },
+  {
+    "revision": "c004d36584243b54199f301be94e1e13",
+    "url": "/flowplus/static/media/8.c004d365.png"
   },
   {
     "revision": "7b08b65a2f4cbaa9658a789c6f7a956e",
@@ -70,5 +78,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d84c2e6bc9ecc36da6c49ba4378c3ff0",
     "url": "/flowplus/static/media/icon.d84c2e6b.svg"
+  },
+  {
+    "revision": "b94a35cd1e55ec2a295844574a86a298",
+    "url": "/flowplus/static/media/logo2.b94a35cd.svg"
   }
 ]);

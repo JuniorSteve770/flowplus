@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.css": "/flowplus/static/css/main.34de6062.chunk.css",
-    "main.js": "/flowplus/static/js/main.f15b2595.chunk.js",
-    "main.js.map": "/flowplus/static/js/main.f15b2595.chunk.js.map",
+    "main.js": "/flowplus/static/js/main.88afe6b9.chunk.js",
+    "main.js.map": "/flowplus/static/js/main.88afe6b9.chunk.js.map",
     "runtime~main.js": "/flowplus/static/js/runtime~main.7cf1f1f6.js",
     "runtime~main.js.map": "/flowplus/static/js/runtime~main.7cf1f1f6.js.map",
     "static/css/2.60a6b8e0.chunk.css": "/flowplus/static/css/2.60a6b8e0.chunk.css",
-    "static/js/2.fda3580b.chunk.js": "/flowplus/static/js/2.fda3580b.chunk.js",
-    "static/js/2.fda3580b.chunk.js.map": "/flowplus/static/js/2.fda3580b.chunk.js.map",
+    "static/js/2.b0bc63ca.chunk.js": "/flowplus/static/js/2.b0bc63ca.chunk.js",
+    "static/js/2.b0bc63ca.chunk.js.map": "/flowplus/static/js/2.b0bc63ca.chunk.js.map",
     "index.html": "/flowplus/index.html",
-    "precache-manifest.becfc92e0be005a46f4da68c8edfafb7.js": "/flowplus/precache-manifest.becfc92e0be005a46f4da68c8edfafb7.js",
+    "precache-manifest.a8b75740d452f0b97a4a1574bf84ac14.js": "/flowplus/precache-manifest.a8b75740d452f0b97a4a1574bf84ac14.js",
     "service-worker.js": "/flowplus/service-worker.js",
     "static/css/2.60a6b8e0.chunk.css.map": "/flowplus/static/css/2.60a6b8e0.chunk.css.map",
-    "static/css/main.34de6062.chunk.css.map": "/flowplus/static/css/main.34de6062.chunk.css.map",
-    "static/media/1.png": "/flowplus/static/media/1.67dacaa6.png",
+    "static/media/1.png": "/flowplus/static/media/1.ea240b68.png",
     "static/media/10.png": "/flowplus/static/media/10.8a3540d5.png",
     "static/media/11.png": "/flowplus/static/media/11.8d5ed86d.png",
     "static/media/12.png": "/flowplus/static/media/12.2e3cb732.png",
@@ -21,9 +19,10 @@
     "static/media/3.png": "/flowplus/static/media/3.0f5a86ca.png",
     "static/media/4.png": "/flowplus/static/media/4.13e5527d.png",
     "static/media/6.png": "/flowplus/static/media/6.eb47cc37.png",
-    "static/media/7.png": "/flowplus/static/media/7.0893ea30.png",
-    "static/media/8.png": "/flowplus/static/media/8.3ae5e37d.png",
+    "static/media/7.png": "/flowplus/static/media/7.511c0fb6.png",
+    "static/media/8.png": "/flowplus/static/media/8.c004d365.png",
     "static/media/9.png": "/flowplus/static/media/9.7b08b65a.png",
-    "static/media/icon.svg": "/flowplus/static/media/icon.d84c2e6b.svg"
+    "static/media/icon.svg": "/flowplus/static/media/icon.d84c2e6b.svg",
+    "static/media/logo2.svg": "/flowplus/static/media/logo2.b94a35cd.svg"
   }
 }
